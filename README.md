@@ -6,6 +6,5 @@
 2. activate venv
    venv\Scripts\activate
 
-#Execute below commands in venv 
 3. pip install flask
 4. pip install python-dotenv
